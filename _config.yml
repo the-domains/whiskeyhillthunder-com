@@ -1,0 +1,28 @@
+name: whiskeyhillthunder.com
+favicon: null
+layout_spectrum: 0.007729170611128211
+typography_spectrum: 0.2185161211527884
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7597281367052346
+  lightness: 0.42171820695511997
+  saturation: 0.06663600238971412
+  rhythmicContrast: 0.7413572184741497
+purpose: []
